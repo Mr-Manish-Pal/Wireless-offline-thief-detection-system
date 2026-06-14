@@ -1,0 +1,17 @@
+
+## 🔌 Circuit Connections
+
+### Sender ESP32
+
+| Device | Pin |
+|----------|----------|
+| IR OUT | GPIO32 |
+| MQ135 AO | GPIO35 |
+
+### Receiver ESP32
+
+| Device | Pin |
+|----------|----------|
+| OLED SDA | GPIO19 |
+| OLED SCL | GPIO21 |
+| Speaker / Buzzer | GPIO18 |
