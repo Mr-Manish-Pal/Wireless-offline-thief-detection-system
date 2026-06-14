@@ -1,4 +1,35 @@
 
+
+# ⚙ How It Works
+
+### Step 1
+
+IR sensor monitors object movement.
+
+### Step 2
+
+MQ135 continuously measures air quality.
+
+### Step 3
+
+ESP32 Sender collects sensor readings.
+
+### Step 4
+
+Data is transmitted wirelessly using ESP-NOW.
+
+### Step 5
+
+Receiver processes incoming packets.
+
+### Step 6
+
+OLED updates live monitoring data.
+
+### Step 7
+
+Alarm activates if intrusion is detected.
+
 ## ⚙ Working Principle
 
 1. IR sensor continuously monitors object presence.
