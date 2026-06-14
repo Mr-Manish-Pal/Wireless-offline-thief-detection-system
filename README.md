@@ -1,73 +1,128 @@
 # 🚨 ESP32 Wireless Security & Air Quality Monitoring System
 
-A real-time wireless monitoring system built using two ESP32 boards, ESP-NOW communication, MQ135 gas sensor, IR obstacle detection sensor, OLED display, and audio alarm.
+<p align="center">
 
-The system detects object intrusion and monitors surrounding air quality. Data is transmitted wirelessly using ESP-NOW without requiring any Wi-Fi router or internet connection.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=ESP32+Wireless+Security+System;Real-Time+Air+Quality+Monitoring;ESP-NOW+Communication;Embedded+Systems+%7C+IoT+%7C+ECE+Project" />
 
----
-
-## 🎥 Demo
+</p>
 
 <p align="center">
-<img src="docs/demo.gif" width="700">
+
+![ESP32](https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-Embedded-orange?style=for-the-badge)
+![ESP NOW](https://img.shields.io/badge/ESP--NOW-Wireless-green?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Programming-purple?style=for-the-badge)
+
 </p>
 
 ---
 
-## 👨‍💻 Author
+## 🌟 Project Overview
 
-Manish Pal
+This project is a **wireless security and environmental monitoring system** built using two ESP32 boards communicating through **ESP-NOW**.
+
+The system continuously monitors:
+
+- 🚶 Human/Object Intrusion
+- 🌫 Air Quality
+- 📡 Wireless Sensor Data
+- 🔊 Alert Conditions
+
+without requiring:
+
+❌ Internet  
+❌ Wi-Fi Router  
+❌ Cloud Connectivity
+
+The entire system works locally with ultra-low latency communication.
+
+# 👨‍💻 Author
+
+**Manish Pal**
 
 B.Tech Electronics & Communication Engineering (ECE)
 
-## ✨ Features
+---
 
-- 📡 ESP-NOW wireless communication
-- 🚶 Intrusion detection using IR sensor
-- 🌫 Air quality monitoring using MQ135
-- 📺 Real-time OLED display
-- 🔊 Audio alert system
-- ⚡ Low-latency communication
-- 🌐 No internet required
-- 🔋 Low power architecture
+# 🎥 Live Demonstration
+
+<p align="center">
+
+<img src="docs/demo.gif" width="800">
+
+</p>
+
+
+
+### 🔊 Real-Time Alarm System
+
+Audio alarm activates when intrusion is detected.
+
+### ⚡ Low Latency
+
+Near real-time communication between nodes.
+
+### 🔋 Low Power Architecture
+
+Suitable for battery-operated IoT devices.
+
+
+# 🎓 What I Learned From This Project
+
+### Embedded Systems
+
+- GPIO Management
+- ADC Sensors
+- Digital Sensors
+
+### ESP32 Development
+
+- ESP32 Architecture
+- Wi-Fi Hardware
+- Memory Management
+
+### Wireless Communication
+
+- ESP-NOW Protocol
+- MAC Addressing
+- Packet Transmission
+
+### Electronics
+
+- Sensor Interfacing
+- Circuit Design
+- Signal Processing
+
+### Programming
+
+- C++
+- Event Driven Programming
+- Real-Time Systems
+
+### IoT Concepts
+
+- Edge Computing
+- Distributed Sensor Networks
+- Smart Monitoring Systems
 
 ---
 
+# ⭐ Support The Project
 
-## 📷 Project Images
+If this project helped you:
 
-### Hardware Setup
+⭐ Star the Repository
 
-![Setup](docs/images/sender.jpg)
+🍴 Fork the Repository
 
-### Receiver Unit
+🛠 Contribute New Features
 
-![Receiver](docs/images/receiver.jpg)
-
-### OLED Output
-
-![OLED](docs/images/oled-output.jpg)
+📢 Share With Friends
 
 ---
 
+<p align="center">
 
+💙 Built with ESP32, Embedded Systems and Curiosity
 
-## 📚 Technologies Used
-
-- ESP32
-- ESP-NOW
-- Arduino Framework
-- PlatformIO
-- SSD1306 OLED
-- Embedded C++
-
-
-## ⭐ Support
-
-If you found this project useful:
-
-⭐ Star the repository
-
-🍴 Fork the repository
-
-🛠 Contribute improvements
+</p>
