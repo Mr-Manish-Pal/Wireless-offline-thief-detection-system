@@ -1,0 +1,16 @@
+
+## 🧰 Components Used
+
+| Component | Quantity |
+|------------|----------|
+| ESP32 DevKit V1 | 2 |
+| MQ135 Gas Sensor | 1 |
+| IR Obstacle Sensor | 1 |
+| OLED SSD1306 | 1 |
+| Speaker | 1 |
+| Jumper Wires | Multiple |
+| Breadboard | 1 |
+
+
+you can use any sensors not specialy those 
+---
