@@ -1,0 +1,18 @@
+## 🏗 System Architecture
+
+Sender Node
+
+IR Sensor
++
+MQ135
+↓
+ESP32 Sender
+↓ ESP-NOW ↓
+
+ESP32 Receiver
+↓
+OLED Display
++
+Speaker Alarm
+
+---
