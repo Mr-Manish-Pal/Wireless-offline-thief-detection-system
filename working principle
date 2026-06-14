@@ -1,0 +1,12 @@
+
+## ⚙ Working Principle
+
+1. IR sensor continuously monitors object presence.
+2. MQ135 measures surrounding air quality.
+3. ESP32 sender collects sensor data.
+4. Data is transmitted using ESP-NOW.
+5. Receiver ESP32 receives packets.
+6. OLED updates live information.
+7. Speaker alarm activates on intrusion.
+
+---
