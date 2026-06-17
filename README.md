@@ -29,6 +29,7 @@
 ## 🌟 Project Overview
 
 This project is a **wireless security and environmental monitoring system** built using two ESP32 boards communicating through **ESP-NOW**.
+Main purpose of making this project is learning about mac adress communication in esp 32 .
 
 The system continuously monitors:
 
