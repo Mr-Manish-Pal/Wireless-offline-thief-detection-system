@@ -16,6 +16,15 @@
 </p>
 
 ---
+<div align="center">
+
+## 🎥 Watch Full Project Demonstration
+
+[![ESP32 Wireless Security & Air Quality Monitoring System](https://img.youtube.com/vi/Gf-CrXAqD70/maxresdefault.jpg)](https://youtu.be/Gf-CrXAqD70)
+
+⭐ Click the thumbnail to watch the complete project demo on YouTube.
+
+</div>
 
 ## 🌟 Project Overview
 
